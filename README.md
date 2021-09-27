@@ -58,6 +58,8 @@ The police show up on your map as red squares even if they're not after you.
 
 The game **might** have a RAM memory leak. It starts at ~300mb of ram and steadily rises to atleast ~700mb.
     You can play it fine for about an hour after which it can randomly crash.
+    
+If the game crashes just make sure you fully close the GTA_SA.exe before you run it again so it doesn't re-crash instantly.
 ```
 
 ## 5. Tested Missions
