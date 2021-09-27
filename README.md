@@ -28,6 +28,7 @@ Fixes for GTA: Liberty San IV <br>
 ```
 
 ## 3. Patching the game
+The game keeps crashing because the script loader (CLEO) is about a decade old.
 Download the newest version of CLEO from https://cleo.li
 (Press the button that says Download for GTA SA)
 ```
@@ -54,6 +55,8 @@ Mousefix.asi:
 
 ## 4. Gameplay Tips
 ```
+The red car at the start of the game is really funky so if you can't get in just steal another car.
+
 The police show up on your map as red squares even if they're not after you.
 
 The game **might** have a RAM memory leak. It starts at ~300mb of ram and steadily rises to atleast ~700mb.
@@ -135,7 +138,7 @@ You can replay missions by walking where the marker used to be.
 </details>
 
 ## 6. More Bootlegs
-Thanks for taking the time to read this! Have fun playing GTA: Liberty San IV<br>
+Thanks for taking the time to read this! Have fun playing GTA: Liberty San IV!<br>
 If you're more interested in weird Russian GTA:SA Bootlegs with custom missions,<br>
 I recommend checking out these!:<br>
 <br>
