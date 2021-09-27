@@ -132,7 +132,7 @@ You can replay missions by walking where the marker used to be.
   </pre>
 </details>
 
-## 7. More Bootlegs
+## 6. More Bootlegs
 Thanks for taking the time to read this! Have fun playing GTA: Liberty San IV<br>
 If you're more interested in weird Russian GTA:SA Bootlegs with custom missions,<br>
 I recommend checking out these!:<br>
